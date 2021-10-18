@@ -29,26 +29,25 @@ El tamaño de la matriz cuadrada (leerá solamente un número ya que la matriz t
 Una serie de datos acomodados en forma de tabla que contiene los números 0 y 1 intercalados por renglón, como se muestra en el ejemplo. O Mensaje **Error** si el número es menor a 2 o mayor a 20.
 
 ## Ejemplo de ejecución del programa
-´´´
+```
 >>> 4   <---- Tamaño de la matriz cuadrada
  [0,  1,  0,  1]
  [0,  1,  0,  1]
  [0,  1,  0,  1]
  [0,  1,  0,  1]
-
-´´´
+```
 ## Otro ejemplo
-´´´
+```
 >>> 3
 [1, 0, 1]
 [1, 0, 1]
 [1, 0, 1]
-´´´
+```
 ## Ultimo ejemplo
-´´´
+```
 >>> -2
 Error
-´´´
+```
 
 **Nota:** No quites ni modifiques el código `if __name__ == '__main__':` 
 
