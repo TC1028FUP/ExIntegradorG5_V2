@@ -19,7 +19,7 @@ Escribe un programa que lea el tamaño de una matriz cuadrada y cree una lista a
 Crea dos funciones:  
 
 1) Una función **matriz_intercalada** que reciba como parámetro el tamaño de la matriz y que cree una matriz cuadrada de ese tamaño y con las características del ejemplo.  
-2) Una función **despliega_matriz** que muestra en la pantalla los elementos en forma de tabla - esta ya la tienes implementada en tu archivo.
+2) Una función **despliega_matriz** que muestra en la pantalla los elementos en forma de tabla **esta ya la tienes implementada en tu archivo**.
 3) En tu función **main**, recibe un entero que representa el tamaño para la matriz con el mensaje **">>> "**, si está entre 2 y 20 inclusive, ejecuta la función para generar la matriz intercalada e imprimela a pantalla con la función correspondiente. En caso de que el tamaño no esté en ese intervalo, despliega el mensaje **Error**.
 
 ## Entradas
