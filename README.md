@@ -1,8 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con el uso de listas
+# Ejercicios del examen integrador
 
-- 02 Contar Pares Impares
-- 06 Sublistas Pares Impares
-- 07 Pares y Posición
-- 08 Listas Sin Duplicados
-- 10 Mezcla y Ordena Listas
+- Ejercicio 1
+- Ejercicio 2

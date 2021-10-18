@@ -1,10 +1,10 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con el uso de listas
+# Ejercicios del examen integrador
 
 ## Configuración de pruebas con **pytest**
 
-`nota:` para todo las pruebas puedes usar esta configuración:
-### Setup command (optional)
+`nota:` para todo las pruebas usa los siguientes comandos:
+### Comando para instalar pytest
 ```
 sudo -H pip3 install pytest
 ```
@@ -12,30 +12,12 @@ sudo -H pip3 install pytest
 - ## Ejercicio 1 - Ciclos, listas y funciones
     ### Run command
     ```
-    pytest assignments/02ContarParesImpares
+    pytest assignments/Ejercicio1
     ```
 
-- ## 06 Sublistas Pares Impares
+- ## Ejercicio 2 - Matrices
     ### Run command
     ```
-    pytest assignments/06SublistasParesImpares
-    ```
-
-- ## 07 Pares y Posición
-    ### Run command
-    ```
-    pytest assignments/07ParesYPosicion
-    ```
-
-- ## 08 Listas Sin Duplicados
-    ### Run command
-    ```
-    pytest assignments/08SinDuplicados
-    ```
-
-- ## 10 Mezcla y Ordena Listas
-    ### Run command
-    ```
-    pytest assignments/10MezclaYOrdenaListas
+    pytest assignments/Ejercicio2
     ```
 

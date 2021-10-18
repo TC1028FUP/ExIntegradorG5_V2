@@ -4,16 +4,16 @@
 input_values = [
     # Test case 1
     (
-    ["gato", "perro", "jabali", "la ardilla", "oso", "-", 4],
-    ["Ingresa palabras o frases, para terminar de capturar ingresa -",">>> ", ">>> ", ">>> ", 
-    ">>> ", ">>> ", ">>> ", "['gato', 'perro', 'jabali', 'la ardilla', 'oso']", "Número de caracteres: ",
-    "['gato', 'oso']", "['perro', 'jabali', 'la ardilla']"],
+    [2, 3, 5, 18, 0, 21, 3],
+    ["Ingresa números positivos, para terminar de capturar ingresa un negativo",">>> ", ">>> ", ">>> ", 
+    ">>> ", ">>> ", ">>> ", ">>> ", "[2, 3, 5, 18, 0, 21]", "Múltiplos de: ",
+    "[3, 18, 0, 21]", "[2, 5]"],
     ["La salida no cumple con el caso de prueba."]
     ),
     # Test case 2
     (
-    ["-", "-1"],
-    ["Ingresa palabras o frases, para terminar de capturar ingresa -",">>> ","[]","Número de caracteres: ","Error"],
-    ["Qué pasa si de entrada recibes un - y el número de caracteres es negativo o cero"]
+    ["-1", "-1"],
+    ["Ingresa números positivos, para terminar de capturar ingresa un negativo",">>> ","[]","Múltiplos de: ","Error"],
+    ["Qué pasa si de entrada recibes un -1 y el múltiplo no es un número positivo"]
     )
     ]
