@@ -4,7 +4,7 @@
 input_values = [
     # Test case 1
     (
-    [2, 3, 5, 18, 0, 21, 3],
+    [2, 3, 5, 18, 0, 21, -1, 3],
     ["Ingresa números positivos, para terminar de capturar ingresa un negativo",">>> ", ">>> ", ">>> ", 
     ">>> ", ">>> ", ">>> ", ">>> ", "[2, 3, 5, 18, 0, 21]", "Múltiplos de: ",
     "[3, 18, 0, 21]", "[2, 5]"],
