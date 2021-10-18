@@ -31,18 +31,18 @@ Una serie de datos acomodados en forma de tabla que contiene los números 0 y 1 
 ## Ejemplo de ejecución del programa
 ´´´
 >>> 4   <---- Tamaño de la matriz cuadrada
- [0,  0,  0,  0]
- [1,  1,  1,  1]
- [0,  0,  0,  0]
- [1,  1,  1,  1]
+ [0,  1,  0,  1]
+ [0,  1,  0,  1]
+ [0,  1,  0,  1]
+ [0,  1,  0,  1]
 
 ´´´
 ## Otro ejemplo
 ´´´
 >>> 3
-[0, 0, 0]
-[1, 1, 1]
-[0, 0, 0]
+[1, 0, 1]
+[1, 0, 1]
+[1, 0, 1]
 ´´´
 ## Ultimo ejemplo
 ´´´
